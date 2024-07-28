@@ -49,4 +49,15 @@ https://z02.ubtvfans.com/live/rx1/204/7eb3bfaf347e514a453b161277aa01f3/index.m3u
 https://k99441.kylintv.tv/live/cctv5hd_iphone.m3u8
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-16奥林匹克6" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png",CCTV-16奥林匹克
 http://116.162.6.192/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225597/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5Plus.cn",CCTV-5+体育赛事 (1080p)
+https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+#EXTINF:-1 tvg-id="CCTV5.cn",CCTV-5体育 (1080p)
+http://1.85.0.62:808/hls/503/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5.cn",CCTV-5体育 (1080p)
+http://220.178.228.153:1935/live/cctv5/playlist.m3u8
+#EXTINF:-1 tvg-id="CCTV5.cn",CCTV-5体育 (1080p)
+http://223.95.111.98:5555/newlive/live/hls/5/live.m3u8
+#EXTINF:-1 tvg-id="CCTV5.cn",CCTV-5体育 (1080p)
+https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+
 
