@@ -37,16 +37,16 @@ http://123.189.36.4:9901/tsfile/live/1027_1.m3u8
 http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-164K" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png",CCTV-164K
 http://123.189.36.4:9901/tsfile/live/1027_1.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=2684164
+#EXTINF:-1 group-title="央视台" tvg-id="CCTV-16奥林匹克1" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png",CCTV-16奥林匹克
 https://vod.olelive.com:2053/hls/break/3/IqORmCupD4SDDvwQOWzifTN9Njns5P8S_F3dVLRAsUmAUPILsnPuQmg3covWqm9HplZfUly-blh5CxBwu4TFGG-X1qkTEfBWFOygV6o0x1l1eXSOdWSyeBtQd5OvMd3J4CnGAUwQDReAcqfZD535pQ==/index-v1-a1.m3u8
-#EXTINF:-1
+#EXTINF:-1 group-title="央视台" tvg-id="CCTV-16奥林匹克2" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png",CCTV-16奥林匹克
 http://597ca2.netsite.cc/proxy/1233541493/1233541493.m3u8
-#EXTINF:-1
+#EXTINF:-1 group-title="央视台" tvg-id="CCTV-16奥林匹克3" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png",CCTV-16奥林匹克
 http://116.162.6.192/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225489/index.m3u8
-#EXTINF:-1
+#EXTINF:-1 group-title="央视台" tvg-id="CCTV-16奥林匹克4" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png",CCTV-16奥林匹克
 https://z02.ubtvfans.com/live/rx1/204/7eb3bfaf347e514a453b161277aa01f3/index.m3u8
-#EXTINF:-1
+#EXTINF:-1 group-title="央视台" tvg-id="CCTV-16奥林匹克5" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png",CCTV-16奥林匹克
 https://k99441.kylintv.tv/live/cctv5hd_iphone.m3u8
-#EXTINF:-1
+#EXTINF:-1 group-title="央视台" tvg-id="CCTV-16奥林匹克6" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png",CCTV-16奥林匹克
 http://116.162.6.192/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225597/index.m3u8
 
